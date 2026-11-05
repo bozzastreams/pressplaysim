@@ -1,0 +1,27 @@
+PressPlaySim 0.0.3 — Staff test build — 2026-11-02
+
+Requirements
+Apple Silicon Mac (M1 or newer), macOS 12 or newer. This package does not run on Intel Macs or Windows.
+
+Install
+1. Unzip the package.
+2. Drag PressPlaySim.app to Applications. Keep any older version separately if needed.
+3. Open PressPlaySim. Each new Mac sets up its own staff name and workspace password. This password is local; it is not a license key.
+4. Create a hockey session.
+
+This is an internal test build with a local ad-hoc signature, not an Apple Developer ID signature or Apple notarization. macOS may block a downloaded copy. If blocked, contact the sender/your IT support; do not disable Gatekeeper. A notarized release is needed for straightforward distribution.
+
+Drawing tools
+Choose Freehand, Arrow, Line, Rectangle or Circle, then click and drag on the pitch. Choose a colour before drawing. Undo removes the last drawing. Clear drawings removes all drawings after confirmation. Choose Move players to reposition players and the ball.
+
+Drawings rotate with the field. They are temporary local overlays: not saved after closing/reloading, not sent to phones, and not included in recordings or MP4 exports.
+
+Phone participation
+Phones must be on the same local network as the host Mac. Use the join address/QR and session code shown in the app. Guest Wi-Fi may prevent connections. Allow incoming app connections if your organisation permits them.
+
+Existing features
+Phone passing, coach possession controls, session recording/replay, MP4 export.
+No paid licensing or remote activation/deactivation is included.
+
+Sharing
+Send the complete ZIP or a download link through WhatsApp/email. No recordings, workspace passwords or personal app data are included in this package.

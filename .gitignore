@@ -1,5 +1,10 @@
-node_modules
-dist
-.vite
+node_modules/
 .DS_Store
-.openai/
+.env
+.env.*
+*.log
+*.app/
+*.zip
+.data/
+*signing-key*
+*.ppsownerbackup
